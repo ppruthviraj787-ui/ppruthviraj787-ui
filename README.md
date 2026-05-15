@@ -74,9 +74,12 @@ pruthviraj = {
 </p>
 
 ---
-### 🎓 Certifications
+### 🎓 Certifications & Badges
 
 [![Google Cloud Compute](https://img.shields.io/badge/Google%20Cloud-The%20Basics%20of%20Cloud%20Compute-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/20bee094-5ac2-47d5-918d-64845e2870b3/badges/24150951)
+
+[![Google Cloud Compute](https://img.shields.io/badge/Google%20Cloud-Basics%20of%20Cloud%20Compute-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/20bee094-5ac2-47d5-918d-64845e2870b3/badges/24150951)
+[![Arcade Base Camp](https://img.shields.io/badge/Google%20Arcade-Base%20Camp%20May%202026-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/20bee094-5ac2-47d5-918d-64845e2870b3/badges/24157555)
 ---
 ### 🏅 Achievements
 
