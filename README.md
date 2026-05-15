@@ -58,7 +58,7 @@ pruthviraj = {
 |--------|-------------|------|
 | 🗳️ [ELECTION-ASSISTANT](https://github.com/ppruthviraj787-ui/ELECTION-ASSISTANT) | AI-powered assistant for election-related queries | Python, NLP |
 | 💡 [project-prompters](https://github.com/ppruthviraj787-ui/project-prompters) | Smart prompt engineering toolkit | JS, Web |
-| 🏆 [Sih](https://github.com/ppruthviraj787-ui/Sih) | Smart India Hackathon project | Python |
+
 
 ---
 
